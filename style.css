@@ -1,0 +1,28 @@
+body {
+  background-color: #FFFDDE;
+}
+
+.btn {
+  background-color: #E7FBBE;
+  color: black;
+  font-family: 'Redressed', cursive;
+  font-size: 35px;
+  border: none;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  font-family: 'Redressed', cursive;
+  font-size: 20px;
+}
+
+#pictures {
+  width: 500px;
+  height: 800px;
+}

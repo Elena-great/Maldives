@@ -26,3 +26,18 @@ body {
   width: 500px;
   height: 800px;
 }
+
+@media all and (max-width: 500px) {
+  h1 {
+    font-size: 25px;
+  }
+
+  #pictures {
+    height: 50vh;
+  }
+
+  .btn {
+    padding: 0px;
+    font-size: 20px;
+  }
+}
